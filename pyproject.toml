@@ -8,3 +8,7 @@ dependencies = [
     "pytest>=8.4.1",
     "streamlit>=1.46.0",
 ]
+[tool.pytest.ini_options]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"

@@ -1,0 +1,103 @@
+PLUGIN registered: <_pytest.config.PytestPluginManager object at 0x7dccf54b9160>
+PLUGIN registered: <_pytest.config.Config object at 0x7dccf54bba10>
+PLUGIN registered: <module '_pytest.mark' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/mark/__init__.py'>
+PLUGIN registered: <module '_pytest.main' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/main.py'>
+PLUGIN registered: <module '_pytest.runner' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/runner.py'>
+PLUGIN registered: <module '_pytest.fixtures' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/fixtures.py'>
+PLUGIN registered: <module '_pytest.helpconfig' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/helpconfig.py'>
+PLUGIN registered: <module '_pytest.python' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/python.py'>
+PLUGIN registered: <module '_pytest.terminal' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/terminal.py'>
+PLUGIN registered: <module '_pytest.debugging' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/debugging.py'>
+PLUGIN registered: <module '_pytest.unittest' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/unittest.py'>
+PLUGIN registered: <module '_pytest.capture' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/capture.py'>
+PLUGIN registered: <module '_pytest.skipping' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/skipping.py'>
+PLUGIN registered: <module '_pytest.legacypath' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/legacypath.py'>
+PLUGIN registered: <module '_pytest.tmpdir' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/tmpdir.py'>
+PLUGIN registered: <module '_pytest.monkeypatch' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/monkeypatch.py'>
+PLUGIN registered: <module '_pytest.recwarn' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/recwarn.py'>
+PLUGIN registered: <module '_pytest.pastebin' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/pastebin.py'>
+PLUGIN registered: <module '_pytest.assertion' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/assertion/__init__.py'>
+PLUGIN registered: <module '_pytest.junitxml' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/junitxml.py'>
+PLUGIN registered: <module '_pytest.doctest' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/doctest.py'>
+PLUGIN registered: <module '_pytest.cacheprovider' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/cacheprovider.py'>
+PLUGIN registered: <module '_pytest.freeze_support' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/freeze_support.py'>
+PLUGIN registered: <module '_pytest.setuponly' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/setuponly.py'>
+PLUGIN registered: <module '_pytest.setupplan' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/setupplan.py'>
+PLUGIN registered: <module '_pytest.stepwise' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/stepwise.py'>
+PLUGIN registered: <module '_pytest.unraisableexception' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/unraisableexception.py'>
+PLUGIN registered: <module '_pytest.threadexception' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/threadexception.py'>
+PLUGIN registered: <module '_pytest.warnings' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/warnings.py'>
+PLUGIN registered: <module '_pytest.logging' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/logging.py'>
+PLUGIN registered: <module '_pytest.reports' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/reports.py'>
+PLUGIN registered: <module '_pytest.faulthandler' from '/home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/faulthandler.py'>
+PLUGIN registered: <CaptureManager _method='fd' _global_capturing=<MultiCapture out=<FDCapture 1 oldfd=7 _state='suspended' tmpfile=<EncodedFile name="<_io.FileIO name=8 mode='rb+' closefd=True>" mode='r+' encoding='utf-8'>> err=<FDCapture 2 oldfd=9 _state='suspended' tmpfile=<EncodedFile name="<_io.FileIO name=10 mode='rb+' closefd=True>" mode='r+' encoding='utf-8'>> in_=<FDCapture 0 oldfd=5 _state='started' tmpfile=<_io.TextIOWrapper name='/dev/null' mode='r' encoding='utf-8'>> _state='suspended' _in_suspended=False> _capture_fixture=None>
+PLUGIN registered: <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+PLUGIN registered: <_pytest.cacheprovider.LFPlugin object at 0x7dccf537ef90>
+PLUGIN registered: <_pytest.cacheprovider.NFPlugin object at 0x7dccf537e660>
+PLUGIN registered: <class '_pytest.legacypath.LegacyTmpdirPlugin'>
+PLUGIN registered: <_pytest.terminal.TerminalReporter object at 0x7dccf5180ad0>
+PLUGIN registered: <_pytest.logging.LoggingPlugin object at 0x7dccf5181010>
+PLUGIN registered: <_pytest.fixtures.FixtureManager object at 0x7dccf5181940>
+============================= test session starts ==============================
+platform linux -- Python 3.13.2, pytest-8.4.1, pluggy-1.6.0
+using: pytest-8.4.1
+active plugins:
+    138319242170720     : <_pytest.config.PytestPluginManager object at 0x7dccf54b9160>
+    pytestconfig        : <_pytest.config.Config object at 0x7dccf54bba10>
+    mark                : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/mark/__init__.py
+    main                : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/main.py
+    runner              : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/runner.py
+    fixtures            : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/fixtures.py
+    helpconfig          : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/helpconfig.py
+    python              : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/python.py
+    terminal            : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/terminal.py
+    debugging           : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/debugging.py
+    unittest            : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/unittest.py
+    capture             : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/capture.py
+    skipping            : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/skipping.py
+    legacypath          : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/legacypath.py
+    tmpdir              : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/tmpdir.py
+    monkeypatch         : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/monkeypatch.py
+    recwarn             : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/recwarn.py
+    pastebin            : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/pastebin.py
+    assertion           : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/assertion/__init__.py
+    junitxml            : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/junitxml.py
+    doctest             : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/doctest.py
+    cacheprovider       : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/cacheprovider.py
+    freeze_support      : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/freeze_support.py
+    setuponly           : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/setuponly.py
+    setupplan           : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/setupplan.py
+    stepwise            : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/stepwise.py
+    unraisableexception : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/unraisableexception.py
+    threadexception     : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/threadexception.py
+    warnings            : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/warnings.py
+    logging             : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/logging.py
+    reports             : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/reports.py
+    faulthandler        : /home/harald/repos/compound-streamlit/.venv/lib/python3.13/site-packages/_pytest/faulthandler.py
+    capturemanager      : <CaptureManager _method='fd' _global_capturing=<MultiCapture out=<FDCapture 1 oldfd=7 _state='suspended' tmpfile=<EncodedFile name="<_io.FileIO name=8 mode='rb+' closefd=True>" mode='r+' encoding='utf-8'>> err=<FDCapture 2 oldfd=9 _state='suspended' tmpfile=<EncodedFile name="<_io.FileIO name=10 mode='rb+' closefd=True>" mode='r+' encoding='utf-8'>> in_=<FDCapture 0 oldfd=5 _state='started' tmpfile=<_io.TextIOWrapper name='/dev/null' mode='r' encoding='utf-8'>> _state='suspended' _in_suspended=False> _capture_fixture=None>
+    session             : <Session  exitstatus=<ExitCode.OK: 0> testsfailed=0 testscollected=0>
+    lfplugin            : <_pytest.cacheprovider.LFPlugin object at 0x7dccf537ef90>
+    nfplugin            : <_pytest.cacheprovider.NFPlugin object at 0x7dccf537e660>
+    legacypath-tmpdir   : <class '_pytest.legacypath.LegacyTmpdirPlugin'>
+    terminalreporter    : <_pytest.terminal.TerminalReporter object at 0x7dccf5180ad0>
+    logging-plugin      : <_pytest.logging.LoggingPlugin object at 0x7dccf5181010>
+    funcmanage          : <_pytest.fixtures.FixtureManager object at 0x7dccf5181940>
+rootdir: /home/harald/repos/compound-streamlit
+configfile: pyproject.toml
+collected 0 items / 1 error
+
+==================================== ERRORS ====================================
+___________________ ERROR collecting tests/test_compound.py ____________________
+ImportError while importing test module '/home/harald/repos/compound-streamlit/tests/test_compound.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+../../.local/share/uv/python/cpython-3.13.2-linux-x86_64-gnu/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_compound.py:1: in <module>
+    from utils.compound_interest import calculate_compound
+E   ModuleNotFoundError: No module named 'utils'
+=========================== short test summary info ============================
+ERROR tests/test_compound.py
+!!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
+=============================== 1 error in 0.13s ===============================
